@@ -1,5 +1,5 @@
 
-![Portfolio Preview](Personal.png)
+![Portfolio Preview](Personal.png.png)
 
 Welcome to my static portfolio website, built with HTML, CSS, and JavaScript, and efficiently hosted on Amazon S3.
 This setup demonstrates a lightweight, serverless approach to deploying personal sites or portfolios,
